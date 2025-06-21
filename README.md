@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Code.+Learn.+Innovate.;Full+Stack+Web+Developer;AI+%2F+ML+Project+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </h3>
 
-
 ---
 
 ### 🧠 About Me
 
+- 🎓 CS undergrad with a hunger for tech-driven impact  
 - 🔭 Currently working on **AI-powered salary prediction** (IBM Internship)
 - 🌱 Learning advanced **Node.js**, **DSA in Java**, and exploring **Next.js / Three.js / NestJS**
 - 💬 Ask me about **MERN Stack**, **Backend Development**, and **AI-based projects**
-- 👨‍💻 My portfolio/project repository: [View Projects](#)
+- 👨‍💻 My portfolio/project repository: [View Projects](#repositories)
 - ⚡ Fun fact: I love solving real-world problems with tech!
 
 ---
@@ -48,6 +48,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neerajrao23&show_icons=true&theme=tokyonight" alt="Neeraj's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajrao23&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neerajrao23&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
