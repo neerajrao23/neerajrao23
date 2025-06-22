@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Rao</h1>
 <h3 align="center">A passionate Full Stack Developer & aspiring AI Innovator from India</h3>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Code.+Learn.+Innovate.;Full+Stack+Web+Developer;AI+%2F+ML+Project+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Code.+Learn.+Innovate.;Full+Stack+Web+Developer;AI+%2F+ML+Explorer;Open+Source+Contributor" alt="Typing SVG" />
 </h3>
 
 ---
@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajrao23&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajrao23&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
