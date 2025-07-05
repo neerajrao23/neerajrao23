@@ -53,6 +53,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=neerajrao23&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
+-render
+
 ---
 
 ### 🌐 Connect with me
