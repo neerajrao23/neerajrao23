@@ -70,5 +70,5 @@
 
 ---
 
-⭐️ _“Learn. Code. Innovate.”_ ⭐️
+⭐️  _“Learn. Code. Innovate.”_  ⭐️
 
