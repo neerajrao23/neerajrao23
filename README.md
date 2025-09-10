@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 - 🎓 CS undergrad with a hunger for tech-driven impact.
-- 🌱 Learning advanced **Node.js**, **DSA in Java**, and exploring **Next.js / Three.js / NestJS**
+- 🌱 Learning advanced **Node.js**, **DSA in Java**, and exploring more. 
 - 💬 Ask me about **MERN Stack**, **Backend Development**, and **AI-based projects**
 - 👨‍💻 My portfolio/project repository: [View Projects](https://github.com/neerajrao23?tab=repositories)
 - ⚡ Fun fact: I love solving real-world problems with tech!
